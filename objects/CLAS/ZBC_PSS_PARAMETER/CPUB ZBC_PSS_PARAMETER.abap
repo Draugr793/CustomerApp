@@ -1,0 +1,7 @@
+CLASS zbc_pss_parameter DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    METHODS constructor.
