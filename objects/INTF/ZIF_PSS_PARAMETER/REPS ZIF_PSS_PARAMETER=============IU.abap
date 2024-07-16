@@ -1,0 +1,4 @@
+INTERFACE zif_pss_parameter
+  PUBLIC .
+
+ENDINTERFACE.
